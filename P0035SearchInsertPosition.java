@@ -1,3 +1,6 @@
+/**
+ * 2 ms	39.8 MB
+ */
 class Solution {
     public int searchInsert(int[] nums, int target) {
         if (nums.length == 0 || target < nums[0]) {
